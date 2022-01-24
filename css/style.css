@@ -1,26 +1,36 @@
+/* common utilities */
+
 
 body{
     font-family: 'Roboto', sans-serif;
 }
-.facility{
-    list-style: none;
-}
-.package-h1 {
-    color:#231D4F;
-}
+
+
 .all-header-color{
     color:#231D4F;
 }
-footer{
-    background-color: #231D4F;
-}
+
 /* package section */
+
+.package-h1 {
+    color:#231D4F;
+}
+.facility{
+    list-style: none;
+}
 .package-3{
     margin-top:-30px;
 }
+
 
 /* more benefits */
 
 .benefits-header{
     text-shadow: 0px 2px 2px rgba(31, 30, 30, 0.26); 
+}
+
+/* footer section */
+
+footer{
+    background-color: #231D4F;
 }
